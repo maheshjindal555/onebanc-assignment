@@ -1,7 +1,7 @@
 
 
 const api_url = 
-      "http://dev.onebanc.ai/assignment.asmx/GetTransactionHistory?userId=1&recipientId=2";
+      "https://dev.onebanc.ai/assignment.asmx/GetTransactionHistory?userId=1&recipientId=2";
   
 
 async function getapi(url) {
